@@ -2,9 +2,11 @@
 
 <p>Le but de ce jeu est de trouver une figure historique importante qui est choisie aléatoirement par l'ordinateur, parmi une série de choix.</p>
 
-<p>Le jeu se résout en suivant des énigmes utilisant des commandes bash tout en fournissant des indices, car l'objectif de ce jeu n'est pas seulement de le résoudre mais aussi d'apprendre des faits sur une figure historique qui a marqué notre histoire en tant qu'humanité.</p>
+<p>Le jeu se résout en suivant des énigmes utilisant des commandes bash tout en fournissant des indices, car l'objectif de ce jeu n'est pas seulement de le résoudre mais aussi d'apprendre des faits sur une figure historique qui a marqué notre histoire en tant qu'humanité. Les indices seront fournis au début de chaque tour</p>
 
-<p>Les indices seront fournis au début de chaque tour, et si le joueur met trop de temps à répondre à une question, des indices supplémentaires lui seront proposés.</p>
+<h2>Note du créateur</h2>
+<p>Le jeu était initialement prévu pour comporter 3 niveaux, mais en raison de contraintes de temps, je n'ai pu en réaliser que 2.</p>
+<p>Les seuls scripts à lancer sont <code>main.sh</code>, <code>check_answer.sh</code> et <code>reset_level.sh</code>. Les autres scripts sont des utilitaires qui permettent le fonctionnement du jeu.</p>
 
 <h2>Niveau 0 : Débutant</h2>
 <p>Le but de ce niveau est d'initier le joueur à la navigation basique dans les fichiers et aux commandes Bash essentielles telles que <code>ls</code>, <code>cd</code>, <code>cat</code> et <code>rm</code>.</p>
@@ -17,3 +19,4 @@
 <h2>Niveau 2 : Avancé (Pas encore implémenté)</h2>
 <p>Ce niveau final défie les joueurs d'interpréter des indices abstraits, symboliques ou codés.</p>
 <p>Le joueur doit extraire des informations d'indices poétiques ou cryptiques pour identifier la figure historique. Des commandes comme <code>grep</code>, <code>ps aux</code>, <code>tar</code> et <code>kill</code> peuvent être utilisées pour révéler ou rassembler des fragments d'informations cachés dans le système.</p>
+
