@@ -4,7 +4,7 @@
 
 2. Choisis le niveau 0 en répondant '0'
    
-3. En utilisant les commande <code>ls</code>, <code>cd</code> et <code>cat</code>, parcourt le dossier affiché dans le dossier 'figures' et ouvre les fichiers txt et lit les indices
+3. En utilisant les commandes <code>ls</code>, <code>cd</code> et <code>cat</code>, parcourt le dossier affiché dans le dossier 'figures' et ouvre les fichiers txt et lit les indices
 
 4. Identifie le faux indice et supprime le à l'aide de la commande <code>rm</code>
 
