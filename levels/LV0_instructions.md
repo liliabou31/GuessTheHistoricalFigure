@@ -4,9 +4,9 @@
 
 2. Choisis le niveau 0 en répondant '0'
    
-3. En utilisant les commande 'ls', 'cd' et 'cat', parcourt le dossier affiché dans le dossier 'figures' et ouvre les fichiers txt et lit les indices
+3. En utilisant les commande <code>ls</code>, <code>cd</code> et <code>cat</code>, parcourt le dossier affiché dans le dossier 'figures' et ouvre les fichiers txt et lit les indices
 
-4. Identifie le faux indice et supprime le à l'aide de la commande 'rm'
+4. Identifie le faux indice et supprime le à l'aide de la commande <code>rm</code>
 
 5. Quand tu penses avoir trouvé le personnage, exécute le script check_answer.sh pour vérifier ta réponse
 
