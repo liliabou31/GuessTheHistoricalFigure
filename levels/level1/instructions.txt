@@ -1,0 +1,19 @@
+=== COMMENT JOUER ===
+
+1. Lance le jeu :
+   ./start_game.sh
+
+2. Trouve la bonne citation en cherchant le mot "rêve"
+
+3. Crée un dossier pour ta réponse :
+   mkdir reponse
+
+4. Sauvegarde la bonne ligne dans un fichier :
+   grep "rêve" citations.txt > reponse/personne
+
+5. Ouvre le fichier et garde seulement le nom :
+   nano reponse/personne
+   (Supprime tout sauf "King")
+
+6. Vérifie ta réponse :
+   ./verifier.sh reponse/personne
