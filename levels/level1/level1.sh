@@ -22,7 +22,7 @@ echo
 cat >levels/level1/citations.txt << EOF
 1. "Je pense, donc je suis." - Philosophe, 1650
 2. "E = mc^2" - Physicien, 1905
-3. "La seule chose que nous ayons à craindre est la crainte elle-même." - Homme d'État, 1933
+3. "La seule chose que nous ayons à craindre est la crainte elle-même." - Homme d'Etat, 1933
 4. "Je suis devenu la mort, le destructeur des mondes." - Physicien, 1945
 5. "Un petit pas pour l'homme, un bond de géant pour l'humanité." - Astronaute, 1969
 EOF
