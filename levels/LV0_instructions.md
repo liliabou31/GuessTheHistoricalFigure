@@ -1,6 +1,6 @@
 <h1>COMMENT JOUER AU NIVEAU 0</h1>
 
-1. Lance le script main.sh **IL NE FAUT PAS EXECUTER LE SCRIPT LEVELS/LEVEL0!**
+1. Lance le script main.sh **-> IL NE FAUT PAS EXECUTER LE SCRIPT LEVELS/LEVEL0!**
 
 2. Choisis le niveau 0 en répondant '0'
    
