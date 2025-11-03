@@ -4,7 +4,7 @@
    
 2. Choisi le niveau 1 en répondant '1'
 
-3. Trouve la bonne citation en cherchant l'expression Homme d'Etat" (tu peux utiliser la commande <code>grep</code>
+3. Trouve la bonne citation en cherchant l'expression "Homme d'Etat" (tu peux utiliser la commande <code>grep</code>
 
 4. Crée un dossier <code>reponse</code> pour ta réponse, à l'aide de <code>mkdir</code>
 
