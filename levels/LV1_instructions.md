@@ -6,10 +6,10 @@
 
 3. Trouve la bonne citation en cherchant le mot "rêve" (tu peux utiliser la commande <code>grep</code>
 
-4. Crée un dossier pour ta réponse
+4. Crée un dossier pour ta réponse, à l'aide de <code>mkdir</code>
 
-5. Sauvegarde la bonne ligne dans un fichier, en utilisant la commande grep
+5. Sauvegarde la bonne ligne dans un fichier, en utilisant la commande <code>grep</code>
 
-6. Déplace ce fichier dans le dossier réponse
+6. Déplace ce fichier dans le dossier réponse, à l'aide de <code>mv</code>
 
 7. Vérifie ta réponse en lançant le script check_answer.sh
