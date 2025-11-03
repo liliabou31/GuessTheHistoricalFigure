@@ -9,3 +9,5 @@
 4. Identifie le faux indice et supprime le à l'aide de la commande 'rm'
 
 5. Quand tu penses avoir trouvé le personnage, exécute le script check_answer.sh pour vérifier ta réponse
+
+6. Tu peux réinitialiser le niveau en exécutant le script reset_level.sh
