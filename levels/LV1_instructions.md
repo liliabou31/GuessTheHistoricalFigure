@@ -4,7 +4,7 @@
    
 2. Choisi le niveau 1 en répondant '1'
 
-3. Trouve la bonne citation en cherchant le mot "rêve"
+3. Trouve la bonne citation en cherchant le mot "rêve" (tu peux utiliser la commande <code>grep</code>
 
 4. Crée un dossier pour ta réponse
 
