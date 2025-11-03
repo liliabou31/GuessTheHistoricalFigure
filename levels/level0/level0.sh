@@ -27,14 +27,13 @@ echo
 echo "Tu as à ta disposition 3 indices dont 1 qui est trompeur."
 echo "Identifie-le et supprime-le à l'aide de la commande 'rm' et ses options !"
 echo
-echo "Le musée est prêt. Explore les dossiers de 'figures' avec 'ls' et 'cd'."
-echo "Parcours le dossier figures !"
+echo "Le musée est prêt. Explore les dossiers à l'aide des commandes bash"
 echo "Méfie toi du dossier 'museum' car il contient la réponse! "
 echo
 echo "Voici le dossier du personnage qui faut parcourir :"
 echo "$target"
 echo
-echo "Quand tu penses avoir trouvé le personnage, exécute le script check_answer.sh pour vérifier ta réponse !"
+echo "Le fichier LV0_instructions.md peut te servir en tant que guide si tu en as besoin !"
 echo
 echo "Appuie sur Entrée pour COMMENCER et retourner au terminal..."
 read
