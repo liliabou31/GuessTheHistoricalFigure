@@ -1,4 +1,4 @@
-<h1>PIT</h1>
+<h1>Guess The Historical Figure</h1>
 
 The point of this game is to simply find a certain important history figure that's picked randomly by the computer, from a series of choices.
 
