@@ -18,5 +18,5 @@
 
 <h2>Niveau 2 : Avancé (Pas encore implémenté)</h2>
 <p>Ce niveau final défie les joueurs d'interpréter des indices abstraits, symboliques ou codés.</p>
-<p>Le joueur doit extraire des informations d'indices poétiques ou cryptiques pour identifier la figure historique. Des commandes comme <code>grep</code>, <code>ps aux</code>, <code>tar</code> et <code>kill</code> peuvent être utilisées pour révéler ou rassembler des fragments d'informations cachés dans le système.</p>
+<p>Le joueur doit extraire des informations d'indices poétiques ou cryptiques pour identifier la figure historique. Des commandes comme <code>grep</code>, <code>ps aux</code> et <code>kill</code> peuvent être utilisées pour révéler ou rassembler des fragments d'informations cachés dans le système.</p>
 
