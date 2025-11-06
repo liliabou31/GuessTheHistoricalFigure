@@ -27,7 +27,7 @@ echo
 echo "Tu as à ta disposition 3 indices dont 1 qui est trompeur."
 echo "Identifie-le et supprime-le à l'aide de la commande 'rm' et ses options !"
 echo
-echo "Voici le dossier du personnage qui faut parcourir :"
+echo "Voici le dossier du personnage qui faut parcourir dans le dossier 'figures':"
 echo "$target"
 echo
 echo "Le musée est prêt. Explore les dossiers à l'aide des commandes bash"
