@@ -18,15 +18,15 @@ check_answer() {
 
         	echo  # saut de ligne pour lisibilité
         	if [[ "$target" == "Einstein" ]] && [ -f "figures/figure1/clue3.txt" ]; then
-            		echo "Attention : tu dois d'abord supprimer le faux indice avec 'rm -r ...'"
+            		echo "Attention : tu dois d'abord supprimer le faux indice avec 'rm ...'"
             		continue
         
 		elif [[ "$target" == "Newton" ]] && [ -f "figures/figure2/clue3.txt" ]; then
-			echo "Attention : tu dois d'abord supprimer le faux indice avec 'rm -r ...'"
+			echo "Attention : tu dois d'abord supprimer le faux indice avec 'rm ...'"
 			continue
 
 		elif [[ "$target" == "Cléopatre" ]] && [ -f "figures/figure3/clue2.txt" ]; then
-			echo "Attention : tu dois d'abord supprimer le faux indice avec 'rm -r ...'"
+			echo "Attention : tu dois d'abord supprimer le faux indice avec 'rm ...'"
 			continue
 		fi
 
@@ -36,7 +36,7 @@ check_answer() {
             		break  # sortir de la boucle
         	elif [[ "$answer_lower" == "hint" ]]; then
             		echo "Conseil : explore les dossiers avec 'ls' et 'cd', lis les fichiers avec 'cat'."
-            		echo "Certains indices sont trompeurs — supprime-les avec 'rm -r'."
+            		echo "Certains indices sont trompeurs — supprime-les avec 'rm '."
         	else
             		echo "Pas encore... continue à explorer le musée ou tape 'hint' pour un indice."
 			echo "OU saisie correctement le nom du personnage !"
